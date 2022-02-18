@@ -4,6 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
+<meta name="robots" content="noindex,nofollow">
 <title>社員管理アプリケーション</title>
 <link rel="stylesheet" href="<%= request.getContextPath() %>/css/style.css" />
 </head>
